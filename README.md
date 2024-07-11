@@ -2,7 +2,7 @@
   <img width="150" height="150" src="https://avictormorais.github.io/posterfy/styles/logo.png">
 </p>
 
-<h1 align="center">Posterfy</h1>
+<h1 align="center">Postersong</h1>
 
 <h3 align="left">🔭 Overview</h3>
 
