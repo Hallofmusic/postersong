@@ -461,7 +461,7 @@ function scannable(){
         imagem.src = `https://scannables.scdn.co/uri/plain/jpeg/${document.getElementById('textoCorFundo').innerHTML.replace('#','')}/white/640/${albumAtual.uri}`
       }
       imagem.onload = function() {
-          ctx.drawImage(imagem, 2020 - paddingLeft, 3235, 480, 120);
+          ctx.drawImage(imagem, 2020 - paddingLeft, 2235, 480, 120);
           obterImagem();
       };
 }
