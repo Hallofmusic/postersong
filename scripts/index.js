@@ -121,8 +121,8 @@ function escreverCanvas(titulo, artista, musicas, lançamento, runtime){
     ctx.fillText(artista, 210, 2370);
 
     ctx.font = `80px Montserrat bold`;
-    ctx.fillText('Release date', 200, 3250);
-    ctx.fillText('Album lenght', 900, 3250);
+    ctx.fillText('Fecha de salida', 200, 3250);
+    ctx.fillText(Duración', 900, 3250);
 
     ctx.globalAlpha = '0.7';
     ctx.font = `70px Montserrat bold`;
