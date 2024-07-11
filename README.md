@@ -29,7 +29,7 @@ Posterfy is a web application that allows users to create posters for their favo
 ```
 <h3 align="left">⚡ Use it!</h3>
 
-You can access the Posterfy project live on GitHub Pages [here](https://avictormorais.github.io/posterfy/).
+You can access the Posterfy project live on GitHub Pages [here](https://hallofmusic.github.io/postersong/).
 
 <h3 align="left">📕 - Disclaimer</h3>
 
